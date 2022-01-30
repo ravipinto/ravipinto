@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+Product Manager @ Oracle for Application Integration
+1. [Oracle Integration](https://oracle.com/integration)
+2. [SOA Suite](https://www.oracle.com/middleware/technologies/soasuite.html)
 <!--
 **ravipinto/ravipinto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
